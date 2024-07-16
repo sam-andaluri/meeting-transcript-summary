@@ -56,6 +56,7 @@ def summarize_transcript(transcript):
 
 
 st.title("Meeting Transcript Summarizer")
+st.header("Algorithm Avengers Team Project for IBMer watsonx challenge 2024")
 st.write(
     "Enter the full transcript of a meeting, and get a summary of the key points discussed."
 )
